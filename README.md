@@ -17,5 +17,5 @@
     
 3.  get bbox
 
-    run `xml2img.py` script with your xml_path and roi_path.
+    run `xml2img.py` script with your `xml_path` and `roi_path`.
 
