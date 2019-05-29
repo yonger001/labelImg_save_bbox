@@ -11,9 +11,9 @@
     
 * (2)video
 
-    First, run `ffmpeg -i ./CH2_20190127150000_20190127160000.mp4 -vf fps=fps=8/1 -q 0 ./imgs/%06d.jpg`.
+    * First, run `ffmpeg -i ./CH2_20190127150000_20190127160000.mp4 -vf fps=fps=8/1 -q 0 ./imgs/%06d.jpg`.
     
-    Second, put imgs to labelImg.
+    * Second, put imgs to labelImg.
     
 3. get bbox
 
